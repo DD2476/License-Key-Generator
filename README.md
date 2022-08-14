@@ -1,5 +1,6 @@
 # License-Key-Generator
 Theta's freeware open-source License Keygen! Included bonus programs. <br>
+Ready to download? Head over to the <b>Releases tab</b>. <br>
 ![image](https://user-images.githubusercontent.com/78639181/184530601-7c0804da-c310-4e76-b848-820ef18f6897.png) <br>
 ![image](https://user-images.githubusercontent.com/78639181/184530612-8a7419a6-5352-4a99-895b-42c1ee1f1a77.png) <br>
 (Virustotal scan + notes included)
