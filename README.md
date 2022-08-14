@@ -14,5 +14,5 @@ Ready to download? Head over to the <b>Releases tab</b>. <br>
 https://github.com/DD2476/License-Key-Generator-SC
 
 # Virustotal
-Notes: Detected because of the usage of iexpress.exe (hide dlls and config files to prevent bulking up the program and making it a standalone) <br>
-[Virustotal scan](https://www.virustotal.com/gui/file/47140d8d312502d1882a5861a85e2afac05f80f82fe2611b41892630f65f5611/detection)
+[Virustotal scan](https://www.virustotal.com/gui/file/16c942e376b2689f771a777fee660c129d5e6de75be89f170689880c21e39063)<br>
+NEW Notes: Removed usage of iexpress, managed to get rid of dlls and config files.
